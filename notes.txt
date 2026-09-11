@@ -1,4 +1,4 @@
 today I learned basics von Linux
 git practice
 learning Git for nexd
-practice git branches
+practice Git branches for teamwork
