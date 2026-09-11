@@ -1,1 +1,2 @@
 today I learned basics von Linux
+git practice
