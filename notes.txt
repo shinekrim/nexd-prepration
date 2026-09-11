@@ -1,4 +1,8 @@
+  nano notes.txt
+
 today I learned basics von Linux
 git practice
 learning Git for nexd
 practice Git branches for teamwork
+practice git branches in linux
+
