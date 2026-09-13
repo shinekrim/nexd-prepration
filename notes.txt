@@ -4,3 +4,4 @@ learning Git for nexd
 practice Git branches for teamwork
 practice git branches in linux
 
+planning practice for NEXD
